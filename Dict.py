@@ -1,3 +1,9 @@
+dic_name = {
+    "key3": "value3",
+    "key4": "value4"
+}
+
+
 # What is a Dictionary in Python?
 # Explanation:
 # A dictionary in Python is an unordered, mutable collection of key-value pairs. Unlike lists, which are indexed by position, dictionaries are indexed by keys. Keys must be unique and immutable, while values can be of any data type.
